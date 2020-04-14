@@ -3,3 +3,5 @@ Repositório para concentrar todas as aulas que realizei na Digital Innovation O
 
 ## Link dos projetos
 - Aula_JDBC_basico -> https://github.com/danielkv7/jdbc-basico
+
+- Aula_JPA_basico -> https://github.com/danielkv7/jpa-basico
